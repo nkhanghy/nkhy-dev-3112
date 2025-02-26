@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khang Hy</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 - 🧑‍🎓 I'm a fourth-year student at VNU-University of Science, where I've been cultivating my skills in software engineering and backend development.
 
