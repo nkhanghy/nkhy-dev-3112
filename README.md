@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hyne
+# 👋 Hi there, I'm Henry (Khang Hy)
 
 🚀 Automation Test Engineer | 📊 Data & Market Learner | 🤖 Exploring ML in Testing  
 
